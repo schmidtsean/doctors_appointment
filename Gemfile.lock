@@ -94,7 +94,7 @@ GEM
       warden (~> 1.2.3)
     erubi (1.10.0)
     execjs (2.7.0)
-    faker (2.16.0)
+    faker (2.17.0)
       i18n (>= 1.6, < 2)
     ffi (1.15.0)
     globalid (0.4.2)
@@ -255,4 +255,4 @@ DEPENDENCIES
   webpacker (~> 5.0)
 
 BUNDLED WITH
-   2.2.12
+   2.2.13
